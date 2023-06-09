@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Powered by <a href = "https://www.google.com/search?q=national+coffee+day&oq=national+coffee+day&aqs=chrome..69i57j0i512l2j0i67i650j0i512l6.3460j1j7&sourceid=chrome&ie=UTF-8"> 99% Caffein </a> and 1% Water (or being fully honest... 100% ☕)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -18,6 +18,23 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+<br>
+Hey, thanks for stopping by! 👋
+
+I am currently pursuing a bachelor's degree in `Double Honours Math + CS` at McGill University.  <br>
+My current courses at McGill includes: Applied Machine Learning, Honours Analysis 1, Algebra 1, Intro to Computer Systems
+
+I am genuinely passionate with the broad field of <b> Artifical Intelligence </b> and <b> Robotics </b> 
+
+In my spare time(that is, I'm not grinding on assignments) I enjoy playing badminton, taking a swim, traveling and cooking!
+<br>
+Alsoo, grabbing a book a reading the afternoon away also sounds pretty good too! => Feel free to check out my [Reading List Page](/al-folio/publications/)
+
+
+
+
+read (feel free to check out my Reading)
 
 I am changing my biography! I am changing the front end!
 
