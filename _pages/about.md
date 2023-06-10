@@ -37,4 +37,4 @@ I am genuinely passionate about the field of <b> Artifical Intelligence </b> and
 
 In my spare time(that is, when I'm not grinding on assignments) I enjoy playing badminton, taking a swim, hitting the gym, traveling and cooking!
 <br>
-Alsoo, grabbing a book and reading the afternoon away sounds pretty good too! Feel free to check out my [Reading List Page](/al-folio/publications/)
+Alsoo, grabbing a book and reading the afternoon away sounds pretty good too! (Feel free to check out my [Reading List Page](/al-folio/publications/) )
