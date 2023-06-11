@@ -9,16 +9,17 @@ profile:
   image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="https://github.com/XuTiany1" title="GitHub"><i class="fab fa-github"></i> </a> 
-    <a href="https://www.linkedin.com/in/tianyi-xu-12138i" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-    <a href="https://www.kaggle.com/s1eep1ng" title="Kaggle"><i class="fab fa-kaggle"></i></a>
-    <a href="https://www.youtube.com/channel/UClE_t7W0lhJdvmHtjyHoxlQ" title="YouTube"><i class="fab fa-youtube"></i></a>
+    <a href="https://github.com/XuTiany1" title="GitHub"><i class="w3-xxlarge fab fa-github"></i> </a>
+    <a href="https://www.linkedin.com/in/tianyi-xu-12138i" title="LinkedIn"><i class="w3-xxlarge fab fa-linkedin"></i></a>
+    <a href="https://www.kaggle.com/s1eep1ng" title="Kaggle"><i class="w3-xxlarge fab fa-kaggle"></i></a>
+    <a href="https://www.youtube.com/channel/UClE_t7W0lhJdvmHtjyHoxlQ" title="YouTube"><i class="w3-xxlarge fab fa-youtube"></i></a>
+    <a href="mailto: tianyi.xu2@mail.mcgill.ca " title="email" ><i class="w3-xxlarge fas fa-envelope"></i></a>
 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 <br>
@@ -38,3 +39,14 @@ I am genuinely passionate about the field of <b> Artifical Intelligence </b> and
 In my spare time(that is, when I'm not grinding on assignments) I enjoy playing badminton, taking a swim, hitting the gym, traveling and cooking!
 <br>
 Alsoo, grabbing a book and reading the afternoon away sounds pretty good too! (Feel free to check out my [Reading List Page](/al-folio/publications/) )
+
+<br>
+
+<h3> Contact Me </h3>
+
+Feel free to reach out to me for collaboration or advising or anything in general via my email 
+
+<br>
+
+
+
