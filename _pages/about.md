@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Powered by <a href = "https://www.google.com/search?q=national+coffee+day&oq=national+coffee+day&aqs=chrome..69i57j0i512l2j0i67i650j0i512l6.3460j1j7&sourceid=chrome&ie=UTF-8"> 99% Caffein </a> and 1% Water (or being fully honest... 100% ☕)
 
