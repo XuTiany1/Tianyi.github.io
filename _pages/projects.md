@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some cool projects
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [A.I. Applied, Robotics]
 horizontal: false
 ---
 

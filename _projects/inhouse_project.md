@@ -4,7 +4,7 @@ title: InHouse
 description: Integrates seamlessly into your workspace to answer all your questions
 img: assets/img/inhouse_profile_pic.jpg
 importance: 1
-category: work
+category: A.I. Applied
 ---
 
 ***
