@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tianyi Xu
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th Feburary 2004
     - name: Languages
-      value: English, German
+      value: English, French, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Honours Math + Computer Science Bachelor
+      institution: McGill University
+      year: 2022 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Current GPA To Be Determined
+        - title: Current Club Involvement
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Computer Science Undergraduate Society VP Internals 
+              - Responsible for re-organizing the Industry Mentorship Program and CSUS Merch
+            - McGill Robotics Software Engineer
+    - title: Ontario High School Degree
+      institution: Hillfield Strathallan College
+      year: 2018-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Club Involvement
+          - Founder of Code Club
 
 - title: Experience
   type: time_table

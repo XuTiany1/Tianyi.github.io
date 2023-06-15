@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Powered by <a href = "https://www.google.com/search?q=national+coffee+day&oq=national+coffee+day&aqs=chrome..69i57j0i512l2j0i67i650j0i512l6.3460j1j7&sourceid=chrome&ie=UTF-8"> 99% Caffein </a> and 1% Water (or being fully honest... 100% ☕)
 
@@ -8,18 +8,12 @@ profile:
   align: right
   image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <a href="https://github.com/XuTiany1" title="GitHub"><i class="w3-xxlarge fab fa-github"></i> </a>
-    <a href="https://www.linkedin.com/in/tianyi-xu-12138i" title="LinkedIn"><i class="w3-xxlarge fab fa-linkedin"></i></a>
-    <a href="https://www.kaggle.com/s1eep1ng" title="Kaggle"><i class="w3-xxlarge fab fa-kaggle"></i></a>
-    <a href="https://www.youtube.com/channel/UClE_t7W0lhJdvmHtjyHoxlQ" title="YouTube"><i class="w3-xxlarge fab fa-youtube"></i></a>
-    <a href="mailto: tianyi.xu2@mail.mcgill.ca " title="email" ><i class="w3-xxlarge fas fa-envelope"></i></a>
-
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 <br>
@@ -41,12 +35,5 @@ In my spare time(that is, when I'm not grinding on assignments) I enjoy playing 
 Alsoo, grabbing a book and reading the afternoon away sounds pretty good too! (Feel free to check out my [Reading List Page](/al-folio/publications/) )
 
 <br>
-
-<h3> Contact Me </h3>
-
-Feel free to reach out to me for collaboration or advising or anything in general via my email 
-
-<br>
-
 
 
