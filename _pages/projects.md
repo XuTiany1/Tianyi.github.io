@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /Tianyi.github.io/projects/
+permalink: /projects/
 description: Some cool projects
 nav: true
 nav_order: 2
