@@ -50,8 +50,6 @@ If you ever see any, please don't hesitate to contact me
             Comprehensive overview of programming in C, use of system calls and libraries, debugging and testing of code; use of developmental tools like make, version control systems.
           </div>
           <div class="col-sm-3">
-            
-            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">syllabus</a>&nbsp;
             <a href="https://tianyixu.notion.site/24fba5ea4d67413c817cd27c1f2c05de?v=1ef5af215bc84e64ac95b2a0ed2d216f&pvs=4" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
           </div>
         </div>
@@ -90,8 +88,6 @@ If you ever see any, please don't hesitate to contact me
             Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics.
           </div>
           <div class="col-sm-3">
-            
-            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">syllabus</a>&nbsp;
             <a href="https://tianyixu.notion.site/b81a48d274814de08600925b902194d6?v=833772b723ac404f9171e88fd8b68f02&pvs=4" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
           </div>
         </div>
@@ -134,8 +130,6 @@ If you ever see any, please don't hesitate to contact me
             Introduction to the scientific study of mind and behavior, including basic concepts and methods in psychology while also highlighting the relevance of psychology to everyday life; attachment, aggression, depression, parenting and personality change.
           </div>
           <div class="col-sm-3">
-            
-            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">syllabus</a>&nbsp;
             <a href="https://tianyixu.notion.site/c1045738249e4dd18258775e18af41cf?v=b7c11156ff124ceaaa25829636dd3500&pvs=4" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
           </div>
         </div>
@@ -175,8 +169,6 @@ If you ever see any, please don't hesitate to contact me
             The cell: ultrastructure, division, chemical constituents and reactions. Bioenergetics: photosynthesis and respiration. Principles of genetics, the molecular basis of inheritance and biotechnology.
           </div>
           <div class="col-sm-3">
-            
-            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">syllabus</a>&nbsp;
             <a href="https://tianyixu.notion.site/246a3b86eda14064a81685e3715d1e4b?v=f80eb2fd89a348ca8008bf6b49603cf2&pvs=4" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
           </div>
         </div>
