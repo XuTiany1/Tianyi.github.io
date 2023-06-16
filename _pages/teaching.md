@@ -9,15 +9,16 @@ nav_order: 5
 
 <!-- pages/projects.md -->
 
-`Property Disclaimer`: The notes may contain snippets from course slides, which belong to the respective professors who taught the course.
+`Property Disclaimer`: The notes could contain screen shots from course slides/pdf notes. These would belong to the respective professors who taught the course.
 
 `Knowledge Disclaimer`: These notes are what I have learned during the my courses at McGill => It is very possibly that there are mistakes in them!!
-If you ever see any, pleaase don't hesitate to contact me ~
+If you ever see any, please don't hesitate to contact me
 
 
 <article>
 
-<h3 id="McGill-university">McGill University</h3>
+<br>
+<h3 id="McGill-university">McGill University C.S.</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -59,6 +60,49 @@ If you ever see any, pleaase don't hesitate to contact me ~
   </div>
 </div>
 
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="card-title">COMP 250</h5>
+        <h6 class="card-subtitle font-italic">Introduction to Computer Science</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          2022 Winter
+        </span>
+      </div>
+    </div>
+    
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Taught by Professor Giulia Alberini
+          </div>
+        </div>
+      </li>
+
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics.
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">syllabus</a>&nbsp;
+            <a href="https://tianyixu.notion.site/b81a48d274814de08600925b902194d6?v=833772b723ac404f9171e88fd8b68f02&pvs=4" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
+          </div>
+        </div>
+      </li>    
+    </ul>
+  </div>
+</div>
+
+<br>
+<br>
+<h3 id="McGill-university">McGill University Others</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -93,47 +137,6 @@ If you ever see any, pleaase don't hesitate to contact me ~
             
             <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">syllabus</a>&nbsp;
             <a href="https://tianyixu.notion.site/c1045738249e4dd18258775e18af41cf?v=b7c11156ff124ceaaa25829636dd3500&pvs=4" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
-          </div>
-        </div>
-      </li>    
-    </ul>
-  </div>
-</div>
-
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="card-title">COMP 250</h5>
-        <h6 class="card-subtitle font-italic">Introduction to Computer Science</h6>
-      </div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          2022 Winter
-        </span>
-      </div>
-    </div>
-    
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
-            Taught by Professor Giulia Alberini
-          </div>
-        </div>
-      </li>
-
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
-            Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics.
-          </div>
-          <div class="col-sm-3">
-            
-            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">syllabus</a>&nbsp;
-            <a href="https://tianyixu.notion.site/b81a48d274814de08600925b902194d6?v=833772b723ac404f9171e88fd8b68f02&pvs=4" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
           </div>
         </div>
       </li>    
@@ -181,6 +184,10 @@ If you ever see any, pleaase don't hesitate to contact me ~
     </ul>
   </div>
 </div>
+
+
+
+
 
 </article>
 

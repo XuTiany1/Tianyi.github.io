@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Tianyi's Homepage
 first_name: Tianyi
 middle_name:
 last_name: Xu
@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ☕  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Tianyi.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -105,7 +105,7 @@ facebook_id: # your facebook id
 youtube_id: UClE_t7W0lhJdvmHtjyHoxlQ
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: Feel free to reach out to me for collaboration or advising or anything in general via my email!
+contact_note: Feel free to drop a line via my email
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
