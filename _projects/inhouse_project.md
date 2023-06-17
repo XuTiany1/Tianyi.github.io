@@ -35,6 +35,7 @@ category: A.I. Applied
 </div>
 
 ***
+
 <TT> <font size = "+2"> Let's face it </font> </TT> nobody likes dealing with reports, documents, or data. While they can provide genuine value, they often feel like secondary tasks and end up showing little to no insights. That's where the idea for Inhouse was born! 
 
 ***
