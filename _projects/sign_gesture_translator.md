@@ -3,7 +3,7 @@ layout: page
 title: Sign Gesture Translator
 description: Two models that helps convert sign language into text~
 img: assets/img/sign_language_project.jpg
-importance: 2
+importance: 1
 category: Robotics
 ---
 
