@@ -79,10 +79,6 @@ For each video, it provides three types of summaries:
 
 Users can then <b>quickly</b> glance over them to <b>gain an understanding</b> of the video that would otherwise take a much longer time!
 
-<br>
-
-<h5> Try it out <a href = "https://inhouse.up.railway.app/"> here! </a>  </h5>
-
 
 
 
