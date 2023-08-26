@@ -24,7 +24,6 @@ I am currently pursuing a bachelor's degree in `Double Honours Math + CS` at McG
   <li><i class="fa-li fa fa-square"></i> Applied Machine Learning</li>
   <li><i class="fa-li fa fa-square"></i> Honours Analysis 1</li>
   <li><i class="fa-li fa fa-square"></i> Honours Algebra 1</li>
-  <li><i class="fa-li fa fa-square"></i> Intro to Computer Systems</li>
 </ul>
 
 
